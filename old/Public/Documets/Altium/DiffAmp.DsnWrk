@@ -1,6 +1,0 @@
-[ProjectGroup]
-Version=1.0
-[Project1]
-ProjectPath=..\..\..\..\Passives Library\Passive Library.LibPkg
-[Project2]
-ProjectPath=..\..\..\..\..\Cell 50A\Cell50A.PrjPCB

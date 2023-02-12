@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=Net1N4148_1 Pin=1N4148-2
-Added Pin To Net: NetName=Net1N4148_1 Pin=1N4148-1
-Added Pin To Net: NetName=Net1N4148_1 Pin=1N4148-1
-Added Pin To Net: NetName=Net1N4148_2 Pin=1N4148-2
-Added Pin To Net: NetName=Net1N4148_2 Pin=1N4148-2
-Added Net: Name=Net1N4148_2
-Added Member To Class: ClassName=Sheet1 Member=Component 1N4148 (=Model) VD1
-Added Room: Name=Sheet1

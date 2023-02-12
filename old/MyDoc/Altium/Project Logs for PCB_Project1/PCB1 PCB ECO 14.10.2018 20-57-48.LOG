@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=1N4148 Old Footprint=DO-35 300mil New Footprint=123
-Change Component Comment : Designator=1N4148 Old Comment=VD? New Comment=VD1
-Change Component Comment : Designator=1N4148 Old Comment=VD? New Comment=VD2
-Added Member To Class: ClassName=Sheet1 Member=Component 1N4148 (=Model) VD1
-Added Room: Name=Sheet1
