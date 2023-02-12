@@ -1,0 +1,67 @@
+Removed Member From Class: ClassName=Sheet1 Member=DA?
+Change Component Footprint: Designator=R? Old Footprint=3224W New Footprint=RES0603
+Change Component Comment : Designator=R? Old Comment=3224W, 5K New Comment=RES0603 100R±5%
+Change component parameters: Designator = "R?"; Footprint = "RES0603"; UniqueID = "\IPDTNCUT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "0603 (1.6*0.8mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "GENERAL PURPOSE CHIP RESISTORS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\ASGord\OneDrive\Documents\Altium Libraries\Passives Library\DataSheet\GENERAL PURPOSE CHIP RESISTORS (Yageo).pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "R0227"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0603 (1.6*0.8mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "GENERAL PURPOSE CLASS 2 CERAMIC CAPACITORS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\ASGord\OneDrive\Documents\Altium Libraries\Passives Library\DataSheet\General Purpose & High Capacitance CERAMIC CAPACITOR CLASS II (Yageo).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "C0028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,0nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=TV?(ESMIT-4180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SMD Coupling Pulse Transformer ESMIT-4180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\ASGord\OneDrive\Documents\Altium Libraries\Passives Library\DataSheet\ESMIT-4180(Sumida).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "TV0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Sumida"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ESMIT-4180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turns Ratio"; Value = "1:1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "BAS316 High-speed switching diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\Ivan\OneDrive\Altium Libraries\Discrete Semiconductors Library\DataSheet\BAS316,115(NXP).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "250 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "VD0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "BAS316"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BAS316,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=TV?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=TV?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=TV?-3
+Added Pin To Net: NetName=NetR?_1 Pin=VD?-Anode
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=TV?-4
+Added Pin To Net: NetName=NetR?_2 Pin=VD?-Cathode
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Sheet1 Member=Component C? CAP0603 1,0nF±10%, 50 V, X7R
+Added Member To Class: ClassName=Sheet1 Member=Component TV? SMD Coupling Pulse Transformer ESMIT-4180
+Added Member To Class: ClassName=Sheet1 Member=Component VD? BAS316 (100 V, 250 mA, SOD-323)

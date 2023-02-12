@@ -1,0 +1,5 @@
+Added Component: Designator=1N4148(DO-35 300mil)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Model"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

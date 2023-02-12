@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27022013-123638";"";
+"REFERENCE";"3224W-1-501E";"";
+"TraceParts.PartTitle";"3224W SMT topadj cermet trimmer,500R 4mm";"";
+"TraceParts.InstanceId";"10-27022013-1236383OV1X1MLZT6NYNKX9RRZWUNP6";"";
+"DESIGN";"3224W SMT topadj cermet trimmer,500R 4mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:/F_BOURNS/10-27022013-123638";"";

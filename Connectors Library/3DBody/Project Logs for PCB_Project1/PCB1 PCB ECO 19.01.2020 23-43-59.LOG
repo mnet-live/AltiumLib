@@ -1,0 +1,21 @@
+Added Component: Designator=DD?(LQFP64)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "LQFP64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "STM32F030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.st.com/resource/en/datasheet/stm32f030f4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flash memory size"; Value = "256Kb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "STM32F030RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F303RCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM memory size"; Value = "32Kb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = " –40 to 85 °C"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(USB-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "DS1099-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin 1 Name"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin 2 Name"; Value = "Data-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin 3 Name"; Value = "Data+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin 4 Name"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin 5 Name"; Value = "Shield"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

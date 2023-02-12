@@ -1,0 +1,82 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Altium Libraries\Analog IC Library\Analog IC Library.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=C:\Altium Libraries\Analog IC Library\Analog IC Library.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Op Apm$
+[Table1]
+SchemaName=
+TableName=Current Sensor$
+Enabled=True
+UserWhere=0
+UserWhereText=[Comment] = '{Comment}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=202|Library Ref0=195|Footprint Path0=200|Footprint Ref0=139|Description0=361|ID0=69|Series0=84|Model0=164|Primary Current0=161|Sensitivity Current0=178|Comment0=313|PartNumber0=194|Manufacture0=137|ComponentLink1Description0=467|ComponentLink1URL0=528
+[Table2]
+SchemaName=
+TableName=Op Apm$
+Enabled=True
+UserWhere=0
+UserWhereText=[ID] = '{ID}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Path0=202|Footprint Path0=200|Description0=832|ID0=69|Footprint Ref0=139|Manufacture0=137|Model0=88|Supply Voltage0=155|Bandwidth0=127|Comment0=215|Library Ref0=243|PartNumber0=158|ComponentLink1Description0=534|ComponentLink1URL0=630
+[Table3]
+SchemaName=
+TableName=Proximity (Touch) Controller$
+Enabled=True
+UserWhere=0
+UserWhereText=[ID] = '{ID}'
+[FieldMap1]
+Options=FieldName=Current Sensor$.Library Path|TableNameOnly=Current Sensor$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Current Sensor$.Library Ref|TableNameOnly=Current Sensor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Current Sensor$.Footprint Path|TableNameOnly=Current Sensor$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Current Sensor$.Footprint Ref|TableNameOnly=Current Sensor$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Current Sensor$.Description|TableNameOnly=Current Sensor$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Current Sensor$.ID|TableNameOnly=Current Sensor$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Op Apm$.Library Path|TableNameOnly=Op Apm$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Op Apm$.Footprint Path|TableNameOnly=Op Apm$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Op Apm$.Description|TableNameOnly=Op Apm$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Op Apm$.ID|TableNameOnly=Op Apm$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Op Apm$.Footprint Ref|TableNameOnly=Op Apm$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Op Apm$.Library Ref|TableNameOnly=Op Apm$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Proximity (Touch) Controller$.Library Path|TableNameOnly=Proximity (Touch) Controller$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Proximity (Touch) Controller$.Library Ref|TableNameOnly=Proximity (Touch) Controller$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Proximity (Touch) Controller$.Footprint Path|TableNameOnly=Proximity (Touch) Controller$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Proximity (Touch) Controller$.Footprint Ref|TableNameOnly=Proximity (Touch) Controller$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Proximity (Touch) Controller$.Description|TableNameOnly=Proximity (Touch) Controller$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Proximity (Touch) Controller$.ID|TableNameOnly=Proximity (Touch) Controller$|FieldNameOnly=ID|FieldType=0|ParameterName=|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

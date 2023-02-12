@@ -1,0 +1,35 @@
+Added Component: Designator=DA?(SO-16 Narrow)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "TL494 PWM Control Circuits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\ASGord\OneDrive\Documents\Altium Libraries\Analog IC Library\DataSheet\TL494(TI).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "DA0002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "TL494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TL494CD"; VariantName = "[No Variations]"
+Added Component: Designator=R?(3224W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "3224J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SMD Top Adjust Multi Turn Trimming Potentiometer 3224  Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\ASGord\OneDrive\Documents\Altium Libraries\Passives Library\DataSheet\SMD Trim Potentiometer 3224(Bourns).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "R0019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3224W-1-502E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(PV36W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "PV36W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Top Adjust Lead Sealed Type Multi Turn Trimming Potentiometer PV36W Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "C:\Users\ASGord\OneDrive\Documents\Altium Libraries\Passives Library\DataSheet\Potentiometers PV36 (Bourns).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "R0011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PV36W253C01B00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PV36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "25K"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1
