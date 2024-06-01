@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=CAN Transceiver$
+LastFocusedTable=RS-485 Transceiver$
 [Table1]
 SchemaName=
 TableName=CAN Transceiver$
@@ -40,11 +40,20 @@ UserWhere=0
 UserWhereText=
 [Table4]
 SchemaName=
+TableName=RS-485 Transceiver$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=58|Model0=88|Speed0=87|Qty Channels0=142|Supply Voltage0=155|Comment0=280|Library Path0=215|Library Ref0=120|Footprint Path0=213|Footprint Ref0=139|PartNumber0=134|Manufacture0=137|ComponentLink1Description0=364|ComponentLink1URL0=543|Description0=674
+[Table5]
+SchemaName=
 TableName=Solid State Relay$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table5]
+[Table6]
 SchemaName=
 TableName=USB Upstream Port Filter$
 Enabled=True
@@ -87,26 +96,38 @@ Options=FieldName=Optocoupler Transistor$.Description|TableNameOnly=Optocoupler 
 [FieldMap18]
 Options=FieldName=Optocoupler Transistor$.ID|TableNameOnly=Optocoupler Transistor$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Solid State Relay$.Library Path|TableNameOnly=Solid State Relay$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RS-485 Transceiver$.ID|TableNameOnly=RS-485 Transceiver$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Solid State Relay$.Library Ref|TableNameOnly=Solid State Relay$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RS-485 Transceiver$.Library Path|TableNameOnly=RS-485 Transceiver$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Solid State Relay$.Footprint Path|TableNameOnly=Solid State Relay$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RS-485 Transceiver$.Library Ref|TableNameOnly=RS-485 Transceiver$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Solid State Relay$.Footprint Ref|TableNameOnly=Solid State Relay$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RS-485 Transceiver$.Footprint Path|TableNameOnly=RS-485 Transceiver$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=Solid State Relay$.Description|TableNameOnly=Solid State Relay$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RS-485 Transceiver$.Footprint Ref|TableNameOnly=RS-485 Transceiver$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Solid State Relay$.ID|TableNameOnly=Solid State Relay$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RS-485 Transceiver$.Description|TableNameOnly=RS-485 Transceiver$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=USB Upstream Port Filter$.ID|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solid State Relay$.Library Path|TableNameOnly=Solid State Relay$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=USB Upstream Port Filter$.Library Path|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solid State Relay$.Library Ref|TableNameOnly=Solid State Relay$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=USB Upstream Port Filter$.Library Ref|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solid State Relay$.Footprint Path|TableNameOnly=Solid State Relay$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=USB Upstream Port Filter$.Footprint Path|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solid State Relay$.Footprint Ref|TableNameOnly=Solid State Relay$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=USB Upstream Port Filter$.Footprint Ref|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solid State Relay$.Description|TableNameOnly=Solid State Relay$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
+Options=FieldName=Solid State Relay$.ID|TableNameOnly=Solid State Relay$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=USB Upstream Port Filter$.ID|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=USB Upstream Port Filter$.Library Path|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=USB Upstream Port Filter$.Library Ref|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=USB Upstream Port Filter$.Footprint Path|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=USB Upstream Port Filter$.Footprint Ref|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
 Options=FieldName=USB Upstream Port Filter$.Description|TableNameOnly=USB Upstream Port Filter$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
